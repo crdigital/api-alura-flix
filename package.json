@@ -1,0 +1,16 @@
+{
+  "name": "api-alura-flix",
+  "version": "1.0.0",
+  "description": "API para o app alura-flix",
+  "author": {
+    "name":"Clayton Rodrigues",
+    "email": "clayton.metal2@hotmail.com"
+  },
+  "main": "api/server.js",
+  "scripts": {
+    "start": "node ./api/server.js"
+  },
+  "dependencies": {
+    "json-server": "^0.17.4"
+  }
+}
